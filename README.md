@@ -1,6 +1,7 @@
+
+![Design and Developmet](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 ### Hi there 👋, Swapnil Patil
 #### Design and Developmet
-![Design and Developmet](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Swapnil from Mumbai, and I do Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy ui, ux, and design in general.
 
