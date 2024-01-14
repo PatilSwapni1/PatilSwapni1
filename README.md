@@ -1,9 +1,9 @@
 
 
 ### Hi there 👋, Swapnil Patil
-#### Design and Developmet
+#### Design and Development
 
-I'm Swapnil from Mumbai, and I do Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy ui, ux, and design in general.
+I'm Swapnil from Mumbai, and I do Design and Development. I enjoy learning languages and frameworks like React and React Native and working in WordPress. I also enjoy UI, UX, and design in general.
 
 Skills: REACT / JS / HTML / CSS / Python / SQL Workbench
 
