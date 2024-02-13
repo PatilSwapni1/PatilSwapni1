@@ -6,6 +6,11 @@ Hi there! I'm Swapnil, a passionate designer and developer based in Mumbai. Welc
 ## About Me
 I have a keen interest in both design and development. I love creating visually appealing interfaces and functional websites. I'm constantly learning and exploring new languages and frameworks to enhance my skills.
 
+## Skills
+- **Design:** I have a strong understanding of UI/UX principles and enjoy creating beautiful designs.
+- **Development:** Proficient in languages like HTML, CSS, JavaScript, and frameworks like React and React JS.
+- **Responsive Design:** I specialize in creating responsive websites that look great on any device.
+
 ## Contact Me
 I'm always open to new opportunities and collaborations. Feel free to reach out to me:
 
