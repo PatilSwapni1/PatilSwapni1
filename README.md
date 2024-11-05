@@ -7,13 +7,13 @@ Hello! I'm Swapnil, a dedicated designer and developer located in Mumbai. Welcom
 My enthusiasm lies in both design and development. Crafting visually pleasing interfaces and functional websites brings me immense joy. I am constantly exploring new languages and frameworks to refine my skills and stay ahead in the industry.
 
 ## Skills
-- **Design:** I possess a solid grasp of UI/UX principles and derive satisfaction from creating captivating designs.
+- **Design:** I possess a solid grasp of responsive principles and derive satisfaction from creating captivating designs.
 - **Development:** Proficient in languages such as HTML, CSS, JavaScript, Python, Wordpress.
 - **Responsive Design:** I specialize in developing websites that seamlessly adapt to various screen sizes, ensuring an optimal user experience across devices.
 
 ## Projects
 Below are some of the projects I've contributed to:
-1. **Twitter Clone:** Developed a clone of the popular social media platform using Firebase. Implemented features such as real-time updates and user authentication.
+1. **New Twitter :** Developed a clone of the popular social media platform using Firebase. Implemented features such as real-time updates and user authentication.
 2. **E-commerce Website:** Designed and developed a responsive e-commerce platform using HTML, CSS, and JavaScript. Integrated payment gateways and product management functionalities.
 3. **Portfolio Website:** Created a personal portfolio website to showcase my skills and projects. Utilized frontend development and deployed the site using GitHub Pages.
 
