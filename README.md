@@ -8,12 +8,12 @@ My enthusiasm lies in both design and development. Crafting visually pleasing in
 
 ## Skills
 - **Design:** I possess a solid grasp of responsive principles and derive satisfaction from creating captivating designs.
-- **Development:** Proficient in languages such as HTML, CSS, JavaScript, Python, Wordpress.
+- **Development:** Proficient in languages such as HTML, CSS, JavaScript, REACT, Python, Wordpress.
 - **Responsive Design:** I specialize in developing websites that seamlessly adapt to various screen sizes, ensuring an optimal user experience across devices.
 
 ## Projects
 Below are some of the projects I've contributed to:
-1. **New Twitter :** Developed a clone of the popular social media platform using Firebase. Implemented features such as real-time updates and user authentication.
+1. **New Twitter(X) :** Developed a clone of the popular social media platform using Firebase. Implemented features such as real-time updates and user authentication.
 2. **E-commerce Website:** Designed and developed a responsive e-commerce platform using HTML, CSS, and JavaScript. Integrated payment gateways and product management functionalities.
 3. **Portfolio Website:** Created a personal portfolio website to showcase my skills and projects. Utilized frontend development and deployed the site using GitHub Pages.
 
